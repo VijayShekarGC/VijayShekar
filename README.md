@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay Shekar
 - 👀 I’m interested in the tech stack that are involved in the Devops Methodology
-- 🌱 I’m currently learning Dcoker
+- 🌱 I’m currently learning Kubernetes
 - 📫 Reach me here - https://www.linkedin.com/in/vijay-shekar-gc/
 
 <!---
